@@ -12,10 +12,10 @@ This is a full-stack e-commerce app with:
 ## 📸 Screenshots
 
 ### Product List
-![Product List](./screenshots/realed_products.png)
+![Product List](./screenshots/realated_products.png)
 
 ### Product Details
-![Product Details](./screenshots/products.png)
+![Product Details](./screenshots/Products.png)
 ### Product Caraousal
 ![Product Carousal](./screenshots/product_detail.png)
 ### Video
